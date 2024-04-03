@@ -1,7 +1,7 @@
 # Week 2 Code Challenge
 
 ## AUTHOR
-Abby Sarah (https://github.com/mendarr)
+[Abby Sarah](https://github.com/mendarr)
 
 ## DESCRIPTION
 ### Character Case Swapper
@@ -22,8 +22,9 @@ https://mendarrr.github.io/ABBY-Code_Challenge_2/
 
 ## CONTACT INFORMATION
 You can reach out to me through:
-- Github (https://github.com/mendarr)
-- Email (https://mail.google.com/mail)
+- [Github](https://github.com/mendarr)
+- [Email](https://mail.google.com/mail)
+- [Instagram](https://www.instagram.com/men.darr)
 
 ## LICENSE
 MIT license
