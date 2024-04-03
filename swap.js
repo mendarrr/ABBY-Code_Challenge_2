@@ -1,6 +1,4 @@
 
-const prompt = require("prompt-sync") ({sigint: true});
-
 // Function is meant to change the cases of each character in a string
 function caseSwap(string){
     let scan = "";
@@ -24,3 +22,6 @@ let result = caseSwap(input)
 
 // The output for the function
 console.log(result);
+// output interface for the program
+window.alert(result);
+
